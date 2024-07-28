@@ -19,4 +19,15 @@ In dem Pfad in dem die gpt_objekterkennung.py liegt, muss auch die openapikey.py
 
 ![Ohne Titel](https://github.com/user-attachments/assets/3407b749-6260-4a03-9e59-2c4b4edeaa5a)
 
+### GPIO PIN`s
+
+Bild erstellen = GPIO 26 = PIN37
+
+Kurze Antwort = GPIO 27 = PIN13
+
+Lange Antwort = GPIO 22 = PIN15
+
+3,3V = PIN17
+
+
 Das Vollbildprogramm kann nur beendet werden wenn man den laufenden Prozess beendet.
