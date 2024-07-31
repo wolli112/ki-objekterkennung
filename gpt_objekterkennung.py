@@ -77,7 +77,7 @@ def upload_gpt(textprompt):
       "Content-Type": "application/json",
       "Authorization": f"Bearer {OPENAI_API_KEY}"
     }
-
+    # Es kann als Model auch "gpt-4o-mini" verwendet werden. "gpt-4o" ist in der Bilderkennung genauer, aber auch teurer!
     payload = {
       "model": "gpt-4o",
       "messages": [
